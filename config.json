@@ -1,0 +1,17 @@
+{
+    "replace_list": [
+        { "note": 35, "target_track": "bassdrum", "target_note": 59 },
+        { "note": 36, "target_track": "bassdrum", "target_note": 60 },
+        { "note": 38, "target_track": "snare", "target_note": 68 },
+        { "note": 39, "target_track": "snare", "target_note": 84 },
+        { "note": 40, "target_track": "snare", "target_note": 68 },
+        { "note": 41, "target_track": "bassdrum", "target_note": 62 },
+        { "note": 43, "target_track": "bassdrum", "target_note": 64 },
+        { "note": 45, "target_track": "bassdrum", "target_note": 66 },
+        { "note": 47, "target_track": "bassdrum", "target_note": 68 },
+        { "note": 48, "target_track": "bassdrum", "target_note": 69 },
+        { "note": 49, "target_track": "cymbal", "target_note": 78 },
+        { "note": 50, "target_track": "bassdrum", "target_note": 71 },
+        { "note": 57, "target_track": "cymbal", "target_note": 81 }
+    ]
+}

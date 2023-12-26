@@ -1,0 +1,45 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Percussion Note Replacement Schema",
+    "description": "Schema for specifying note replacements in percussion tracks.",
+    "type": "object",
+    "properties": {
+        "replace_list": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "note": {
+                        "type": "integer",
+                        "description": "The note in a percussion track to be replaced.",
+                        "minimum": 0
+                    },
+                    "target_track": {
+                        "type": "string",
+                        "description": "The track where the substitute note will be written. Can be either 'bassdrum', 'cymbal', or 'snare'.",
+                        "enum": [
+                            "bassdrum",
+                            "cymbal",
+                            "snare"
+                        ]
+                    },
+                    "target_note": {
+                        "type": "integer",
+                        "description": "The substitute note that will be written to the target track.",
+                        "minimum": 0
+                    }
+                },
+                "required": [
+                    "note",
+                    "target_track",
+                    "target_note"
+                ],
+                "additionalProperties": false
+            }
+        }
+    },
+    "required": [
+        "replace_list"
+    ],
+    "additionalProperties": false
+}
