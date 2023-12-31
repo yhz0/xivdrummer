@@ -16,11 +16,11 @@
                     },
                     "target_track": {
                         "type": "string",
-                        "description": "The track where the substitute note will be written. Can be either 'bassdrum', 'cymbal', or 'snare'.",
+                        "description": "The track where the substitute note will be written. Can be either 'bassdrum', 'cymbal', or 'snaredrum'.",
                         "enum": [
                             "bassdrum",
                             "cymbal",
-                            "snare"
+                            "snaredrum"
                         ]
                     },
                     "target_note": {

@@ -2,7 +2,7 @@
 
 ## Overview
 
-XIVDrummer is a Python utility designed for Final Fantasy XIV players and music enthusiasts. It specializes in splitting a MIDI drum track into three distinct tracks: bass drum, snare, and cymbal.
+XIVDrummer is a Python utility designed for Final Fantasy XIV players and music enthusiasts. It specializes in splitting a MIDI drum track into three distinct tracks: bass drum, snare drum, and cymbal.
 
 ## Installation
 

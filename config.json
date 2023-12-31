@@ -2,9 +2,9 @@
     "replace_list": [
         { "note": 35, "target_track": "bassdrum", "target_note": 59 },
         { "note": 36, "target_track": "bassdrum", "target_note": 60 },
-        { "note": 38, "target_track": "snare", "target_note": 68 },
-        { "note": 39, "target_track": "snare", "target_note": 84 },
-        { "note": 40, "target_track": "snare", "target_note": 68 },
+        { "note": 38, "target_track": "snaredrum", "target_note": 68 },
+        { "note": 39, "target_track": "snaredrum", "target_note": 84 },
+        { "note": 40, "target_track": "snaredrum", "target_note": 68 },
         { "note": 41, "target_track": "bassdrum", "target_note": 62 },
         { "note": 43, "target_track": "bassdrum", "target_note": 64 },
         { "note": 45, "target_track": "bassdrum", "target_note": 66 },
