@@ -2,6 +2,7 @@
     "replace_list": [
         { "note": 35, "target_track": "bassdrum", "target_note": 59 },
         { "note": 36, "target_track": "bassdrum", "target_note": 60 },
+        { "note": 37, "target_track": "snaredrum", "target_note": 79 },
         { "note": 38, "target_track": "snaredrum", "target_note": 68 },
         { "note": 39, "target_track": "snaredrum", "target_note": 84 },
         { "note": 40, "target_track": "snaredrum", "target_note": 68 },
